@@ -333,7 +333,7 @@ def main():
 
 
             print("the publish is", publish)
-            w = csv.writer(open("Project_3_A_Star_Output_Part_A.csv", "w"))
+            w = csv.writer(open("A_Star_Algorithm_Nodes.csv", "w"))
             for key, val in publish.iteritems():
                 w.writerow([val, key])
 
