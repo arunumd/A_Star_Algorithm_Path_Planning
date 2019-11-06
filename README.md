@@ -11,7 +11,7 @@ This repository contains a Python implementation of an A Star algorithm for shor
 
 - First run the file `A_Star_Algorithm.py`
 - When the algorithm finishes perfectly, you will see the nodes being generated in `A_Star_Algorithm_Nodes.csv`
-- Finally, run the MATLAB script `Visualizattion_Script.m`
+- Finally, run the MATLAB script `Visualization_Script.m`
 
 # Visualization of the Shortest Path Generated from the Algorithm
 
